@@ -1,3 +1,4 @@
+Flight Reservtion System
 class Flight:
     def __init__(self,flight_number,destination,seats_available):
         self.flight_number=flight_number
